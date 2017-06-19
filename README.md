@@ -11,6 +11,7 @@ Highlights from [the new Kindle Highlights](https://kindle.amazon.com/your_highl
 > Yellow highlight | Page: 301
 
 > “I deny that there is any natural or divine law requiring that machines, efficiency, and organization should forever increase in scope, power, and complexity, in peace as in war. I see the growth of these now, rather, as the result of a dangerous lack of law.
+
 > -*Player Piano* by Kurt Vonnegut
 
 I want to reshape these into the below format for transfer to Evernote:
@@ -20,5 +21,4 @@ I want to reshape these into the below format for transfer to Evernote:
 The [KindleHighlights Jupyter Notebook](https://github.com/mkudija/Kindle-Highlights/blob/master/KindleHighlights.ipynb) performs this. 
 
 <hr>
-Matthew Kudija
-mkudija.github.io
+Matthew Kudija | [mkudija.github.io](mkudija.github.io)
