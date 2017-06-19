@@ -9,6 +9,7 @@
 Highlights from [the new Kindle Highlights](https://kindle.amazon.com/your_highlights) are of the form:
 
 > Yellow highlight | Page: 301
+
 > “I deny that there is any natural or divine law requiring that machines, efficiency, and organization should forever increase in scope, power, and complexity, in peace as in war. I see the growth of these now, rather, as the result of a dangerous lack of law.
 > -*Player Piano* by Kurt Vonnegut
 
