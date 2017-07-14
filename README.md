@@ -19,4 +19,4 @@ I want to reshape these into the below format for transfer to Evernote:
 The [KindleHighlights Jupyter Notebook](https://github.com/mkudija/Kindle-Highlights/blob/master/KindleHighlights.ipynb) performs this. 
 
 <hr>
-Matthew Kudija | [mkudija.github.io](mkudija.github.io)
+Matthew Kudija | [mkudija.github.io](https://mkudija.github.io/)
